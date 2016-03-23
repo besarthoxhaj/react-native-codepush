@@ -1,0 +1,14 @@
+{
+  "name": "codepush",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "p:s": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "react": "^0.14.7",
+    "react-native": "^0.22.2",
+    "react-native-code-push": "^1.9.0-beta"
+  }
+}
